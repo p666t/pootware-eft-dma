@@ -1,2 +1,2 @@
 # LoneEFT by poot
-##Arena updated for 29/05/25
+Arena updated for 29/05/25
